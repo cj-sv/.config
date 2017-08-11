@@ -1,2 +1,2 @@
-# mpv_config
-Personal config file for mpv.
+# .config
+Personal config files.
