@@ -7,6 +7,6 @@
    #content,
    browser[type="content"] > html
    {
-      background: #323234 !important;
+      background: #373737 !important;
    }
 }
