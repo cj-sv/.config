@@ -1,13 +1,17 @@
+//Adapta Colors #263238
+//Pop Colors #574e4a
+//Equilux #373737
+
 @-moz-document url-prefix(about:blank), url-prefix(about:newtab) {
   html:not(#ublock0-epicker), html:not(#ublock0-epicker) body, #newtab-customize-overlay {
-    background: #323234 !important;
+    background: #373737 !important;
   }
 }
 
 
 @-moz-document url(about:newtab){
    body{
-       background-color:#323234!important;
+       background-color:#373737!important;
        color:#D1D1D1!important;
       }
    .card,
