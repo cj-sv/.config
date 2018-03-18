@@ -1,0 +1,11 @@
+# Save all videos under Downloads/Youtube/Uploader/Playlist Directory.
+-o '~/Downloads/Youtube/%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s'
+
+# Always continue download
+-c
+
+# Default download quality to 360p
+#-f 18
+
+# Default download quality to 480p + best budio
+-f 135+bestaudio 

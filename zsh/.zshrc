@@ -106,7 +106,8 @@ PATH="${PATH}:${HOME}/.local/bin/"
 # Import colorscheme from 'wal' asynchronously
 # &   # Run the process in the background.
 # ( ) # Hide shell job control messages.
-#(cat ~/.cache/wal/sequences &)
+(cat ~/.cache/wal/sequences &)
 
 # Alternative (blocks terminal for 1-3ms)
-cat ~/.cache/wal/sequences
+#cat ~/.cache/wal/sequences
+

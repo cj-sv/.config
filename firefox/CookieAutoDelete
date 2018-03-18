@@ -64,6 +64,27 @@
       "cookieNames": []
     },
     {
+      "expression": "*.mozilla.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "id": "H1Dbs1SOf",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.myanimelist.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "id": "BkNtKDpuf",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.nyaa.si",
+      "listType": "WHITE",
+      "storeId": "default",
+      "id": "SybIRffKG",
+      "cookieNames": []
+    },
+    {
       "expression": "*.reddit.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -82,6 +103,13 @@
       "listType": "WHITE",
       "storeId": "default",
       "id": "H198Nqe0zf",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.trello.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "id": "Syyk1vmYM",
       "cookieNames": []
     },
     {
@@ -110,6 +138,13 @@
       "listType": "WHITE",
       "storeId": "default",
       "id": "rkAIEqgAGM",
+      "cookieNames": []
+    },
+    {
+      "expression": "*.yts.am",
+      "listType": "WHITE",
+      "storeId": "default",
+      "id": "By8zJlp_f",
       "cookieNames": []
     },
     {
